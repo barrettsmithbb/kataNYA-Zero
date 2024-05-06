@@ -24,4 +24,5 @@ Open Steam and run and enjoy!
 
 
 # Tasks
-- [ ] Setup Issues
+- [X] Setup Issues
+- [X] #1
