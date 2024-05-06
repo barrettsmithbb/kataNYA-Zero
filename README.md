@@ -25,4 +25,6 @@ Open Steam and run and enjoy!
 
 # Tasks
 - [X] Setup Issues
-- [X] #1
+- [X] https://github.com/barrettsmithbb/kataNYA-Zero/issues/1
+- [ ] https://github.com/barrettsmithbb/kataNYA-Zero/issues/2
+- [ ] Replace level 3 player sprites
