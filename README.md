@@ -30,15 +30,19 @@ Open Steam and run and enjoy!
 # Issues and Feedback
 This mod is a long term work in progress, please add any feedback/issues about graphical changes or issues you find!
 
+> [!IMPORTANT]
+> Please limit feedback to graphical and animations
 
 
-# Acknowledgements/links
 # GO SUPPORT GIRL_DM_!!
 
 [https://www.twitch.tv/girl_dm_](https://www.twitch.tv/girl_dm_)
 [https://twitter.com/girl_dm_](https://twitter.com/girl_dm_)
 [https://www.youtube.com/@girldm](https://www.youtube.com/@girldm)
 
+
+# Acknowledgements
 **BIG thanks to all of the dm community for watching the progress on this mod, helping with play tests, giving feedback and giving their support!!!**
+***NOW GO WISH DM A HAPPY STREAMER ANNIVERSARY!***
 
 
