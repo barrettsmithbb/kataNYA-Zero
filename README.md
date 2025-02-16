@@ -1,7 +1,7 @@
 # KataNYA-Zero
 ## A Fan Mod of Katana Zero
 
-A graphical fan mod of Katana Zero featuring the likeness of ***girl_dm_*** for her 4th anniversary! 🎉🎉🎉🎉
+A graphical fan mod of Katana Zero featuring the likeness of ***girl_dm_*** for her 5th anniversary! 🎉🎉🎉🎉
 
 The main protagonist of Katana Zero is replaced with [girl_dm_](https://www.twitch.tv/girl_dm_) in her villainess arc!  AND NOW Oni_dm_!!
 
@@ -40,6 +40,7 @@ This mod is a long term work in progress, please add any feedback/issues about g
 
 [https://www.twitch.tv/girl_dm_](https://www.twitch.tv/girl_dm_)
 [https://twitter.com/girl_dm_](https://twitter.com/girl_dm_)
+[https://bsky.app/profile/girldm.com](https://bsky.app/profile/girldm.com)
 [https://www.youtube.com/@girldm](https://www.youtube.com/@girldm)
 
 
