@@ -11,7 +11,7 @@ The main protagonist of Katana Zero is replaced with [girl_dm_](https://www.twit
 
 ![KatanaZeroWIP20001](https://github.com/barrettsmithbb/kataNYA-Zero/assets/91964954/f0ab4390-024d-459a-95d5-a55fbb845e39)
 
-All player sprites have been replaced up to ***Level 3***!  And more are coming!
+***All*** player sprites have been replaced!
 
 
 # Installing
